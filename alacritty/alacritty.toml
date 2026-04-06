@@ -1,0 +1,15 @@
+[general]
+import = ["themes/noctalia.toml"]
+#import = ["themes/catpuccin.toml"]
+
+[font]
+size = 20
+normal = {family = "HackNerdFont", style = "Bold"}
+
+[colors]
+transparent_background_colors = true
+
+[window]
+opacity = 0.9
+
+
