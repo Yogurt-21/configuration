@@ -1,0 +1,7 @@
+include catppuccin-macchiato
+
+set font "HackNerdFont bold 20"
+set scroll-step 100
+set show-recent 30
+set show-directories true
+set selection-clipboard xclip
